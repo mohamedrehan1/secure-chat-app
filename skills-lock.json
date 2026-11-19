@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "skills": {
+    "SVG Logo Designer": {
+      "source": "rknall/claude-skills",
+      "sourceType": "github",
+      "skillPath": "svg-logo-designer/SKILL.md",
+      "computedHash": "a4733318997e024c77f9bc585581d924d8444d45295e21ef0d77bd569fcbafd9"
+    },
+    "ios-design": {
+      "source": "uizze.sh",
+      "sourceUrl": "https://uizze.sh/",
+      "sourceType": "well-known",
+      "computedHash": "de4e9ed42df966a90087ea3a723571521ce72420442cbf6686388c00b2597312",
+      "wellKnownDigest": "sha256:ae3d720aa60c1655c3dae48bc07c448527e367ab24ed829020ba0a5f6268b691"
+    },
+    "nostr": {
+      "source": "soapbox-pub/nostr-skills",
+      "sourceType": "github",
+      "skillPath": "skills/nostr/SKILL.md",
+      "computedHash": "7c3ee95a7be918a4c77121da3721b7a07f154475167d29423837e97c87047286"
+    },
+    "ui-taste": {
+      "source": "uizze.sh",
+      "sourceUrl": "https://uizze.sh/",
+      "sourceType": "well-known",
+      "computedHash": "9a37107c51b6bf6e3bdc2675d559094619b1b03092f8466c32ffc8e0cb9c1d4a",
+      "wellKnownDigest": "sha256:f26d607ceb3f3a6fa8c98f8dbcb2b1aeb0392de1953e826bb8893d9e49983bf9"
+    }
+  }
+}
